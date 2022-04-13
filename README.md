@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -57,7 +56,7 @@ This challenge helped me pratice using css flexbox and grid. I learnt some css p
 
 ## Connect with me
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Maseho](https://www.frontendmentor.io/profile/Maseho)
 - Twitter - [@masxho](https://twitter.com/masxho)
 
 
